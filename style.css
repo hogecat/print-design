@@ -988,6 +988,13 @@ CONTACT
         font-size: 12px;
         font-size: 0.75rem;
     }
+    .tab-only {
+        display: block;
+    }
+    .mv__title {
+        line-height: 1.2;
+        font-size: 3rem;
+    }
 }
 
 @media screen and (max-width: 768px) {
