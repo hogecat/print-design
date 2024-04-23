@@ -203,8 +203,8 @@ section {
     content: "";
 }
 
-.p-breadcrumb:before,
-.p-breadcrumb:after {
+.breadcrumb:before,
+.breadcrumb:after {
     content: "";
     display: table;
 }
@@ -1268,7 +1268,7 @@ CONTACT
     }
 
     /* 下層ページ：contact */
-    .p-contact-form__body {
+    .contact-form__body {
         padding: 30px;
     }
 
